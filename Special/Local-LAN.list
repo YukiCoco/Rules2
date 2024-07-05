@@ -1,3 +1,5 @@
+## > Tailscale
+IP-CIDR,100.64.0.0/24,no-resolve
 ## > LocalLan
 DOMAIN-SUFFIX,foo.com
 DOMAIN-SUFFIX,ip6-localhost
